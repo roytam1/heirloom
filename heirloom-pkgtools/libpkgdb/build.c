@@ -23,7 +23,7 @@
 **     ROLLBACK
 **     PRAGMA
 **
-** $Id: build.c,v 1.1 2007/02/27 19:52:07 gritter Exp $
+** from Id: build.c,v 1.156 2003/07/01 18:13:15 drh Exp
 */
 #include "sqliteInt.h"
 #include <ctype.h>

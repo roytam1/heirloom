@@ -14,7 +14,7 @@
 ** other files are for internal use by SQLite and should not be
 ** accessed by users of the library.
 **
-** $Id: main.c,v 1.1 2007/02/27 19:51:55 gritter Exp $
+** from Id: main.c,v 1.139 2003/07/22 09:24:45 danielk1977 Exp
 */
 #include "sqliteInt.h"
 #include "os.h"
